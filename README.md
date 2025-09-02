@@ -29,9 +29,9 @@ Certain ads drove the majority of engagement, proving useful for targeted market
 📂 Repository Includes
 📄 Power BI (.pbix) file
 📊 Dashboard Screenshot
-📝 Documentation of KPIs & Calculations
+📝 Documentation of KPIs & Calculations and 
 working video of project
 
 🙌 Acknowledgment
 
-Special thanks to Future Interns for providing this opportunity to apply real-world data analytics skills and create business-ready dashboards.
+Special thanks to @Future Interns for providing this opportunity to apply real-world data analytics skills and create business-ready dashboards.
